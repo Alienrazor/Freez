@@ -25,7 +25,7 @@ python freezn.py
 
 <p align="left">
 
-<img src='https://github.com/Alienrazor/BD/blob/main/IMG_2024609.JPG' style="height:600px;width:300px;" >
+<img src='https://github.com/Alienrazor/SS/blob/main/IMG_20230109_141708.JPG' style="height:600px;width:300px;" >
 
 
 
